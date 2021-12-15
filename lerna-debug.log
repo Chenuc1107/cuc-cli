@@ -1,0 +1,7 @@
+47 error Error: Command failed with exit code 128: git push --follow-tags --no-verify --atomic origin main
+47 error Logon failed, use ctrl+c to cancel basic credential prompt.
+47 error bash: /dev/tty: No such device or address
+47 error error: failed to execute prompt script (exit code 1)
+47 error fatal: could not read Username for 'https://github.com': No error
+47 error     at makeError (D:\架构师学习\cuc-cli\node_modules\execa\lib\error.js:60:11)
+47 error     at handlePromise (D:\架构师学习\cuc-cli\node_modules\execa\index.js:118:26)
