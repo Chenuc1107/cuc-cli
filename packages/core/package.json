@@ -9,6 +9,9 @@
   "homepage": "https://github.com/Chenuc1107/cuc-cli/tree/main/packages/core#readme",
   "license": "ISC",
   "main": "lib/core.js",
+  "bin": {
+    "cuc-cli": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
